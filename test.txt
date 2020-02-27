@@ -1,3 +1,4 @@
 git clone
 add
 status
+commit
